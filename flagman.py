@@ -1,30 +1,37 @@
 from bs4 import BeautifulSoup, Tag
-from typing import Any, List, Union
+from typing import List
 from urllib.parse import urlparse
 from loguru import logger
 from my_html_work import get_html
 
 
-class CatalogItem:
+class Category:
     def __init__(self, name: str, url: urlparse):
         self.name: str = name
         self.url: urlparse = url
 
-
-class SubCatalogItem:
-    def __init__(self, parent: CatalogItem, name: str, url: urlparse):
-        self.parent = CatalogItem
-        self.name: str = name
-        self.url: urlparse = url
+    def __str__(self):
+        return '%s - %s' % (self.name, self.url)
 
 
-def get_catalog(html) -> List[CatalogItem]:
-    items: List[CatalogItem] = []
+class Categories:
+    def __init__(self):
+        self.list: List[Category] = []
+
+    def add_category(self, category: Category) -> None:
+        self.list.append(category)
+
+
+    # todo add expand method
+
+
+def get_catalog(html) -> List[Category]:
+    items: List[Category] = []
     soup = BeautifulSoup(html, 'html.parser')
-    sub_menu = soup.find('div', class_='drop-podmenu_content')
-    res = sub_menu.find_all('a', class_='podmenu-title')
+    sub_menu: Tag = soup.find('div', class_='drop-podmenu_content')
+    res: List[str] = sub_menu.find_all('a', class_='podmenu-title')
     for item in res:
-        items.append(CatalogItem(
+        items.append(Category(
             name=item.find('div', class_='menuText').get_text(),
             url=item['href']
         ))
@@ -32,5 +39,20 @@ def get_catalog(html) -> List[CatalogItem]:
     return items
 
 
-def get_sub_categories(item: CatalogItem):
-    src = get_html(item.url, )
+def get_sub_categories(item: Category) -> Categories:
+    src = get_html(item.url, '')
+    categories = Categories()
+    soup = BeautifulSoup(src.text, 'html.parser')
+    try:
+        subcategories_list = soup.find('div', {'class': 'row', 'data-page-type': 'categories'}).find_all('div',
+                                                                                                         class_='title')
+    except AttributeError as e:
+        logger.debug(f"{item.name} - {item.url} hasn't got subcategories.")
+        categories.add_category(item)
+    else:
+        for item in subcategories_list:
+            url = item.a['href']
+            name = item.a.get_text()
+            logger.debug(f'{name} - {url}')
+            categories.add_category(Category(name, url))
+    return categories

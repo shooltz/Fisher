@@ -1,27 +1,31 @@
 import requests
-from typing import Any
+from typing import Any, List
 from FisherSettings import SETTINGS
 import flagman
 from loguru import logger
+from os import system
 
-
-def get_html(url: str, params='') -> Any:
-    html: Any = None
-    try:
-        html = requests.get(url, params, headers=SETTINGS.HEADERS)
-        if html.status_code != requests.codes.ok:
-            raise requests.HTTPError
-        logger.debug('The main page of flagman.kiev.ua was received. ')
-    except requests.HTTPError as e:
-        logger.error(e)
-    return html
+from my_html_work import get_html
 
 
 @logger.catch
 def main():
+    logger.add('fisher.log', rotation="100 MB")
+    logger.info('The script started.')
     html_flagman_main_page = get_html(SETTINGS.HOST)
-    if html_flagman_main_page is not None:
-        res = flagman.get_catalog(html_flagman_main_page.text)
+    if html_flagman_main_page is None:
+        logger.error('No html was received.')
+        Exception('No html was received.')
+    categories_list: List[flagman.Category] = flagman.get_catalog(html_flagman_main_page.text)
+    if categories_list is None:
+        logger.error('No categories was received.')
+        Exception('No html was received.')
+    subcategories_list = flagman.Categories()
+    for item in categories_list:
+        pass
+        #todo subcategories_list.exapnd(flagman.get_sub_categories(item))
+    pass
+    logger.info('Script stop')
 
 
 if __name__ == "__main__":

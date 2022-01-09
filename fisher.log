@@ -1,0 +1,490 @@
+2022-01-09 23:13:40.051 | INFO     | __main__:main:14 - The script started.
+2022-01-09 23:13:40.053 | DEBUG    | my_html_work:get_html:15 - Sleep in 1
+2022-01-09 23:13:44.468 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua page of flagman.kiev.ua was received. 
+2022-01-09 23:13:44.909 | DEBUG    | flagman:get_catalog:38 - It was received 35 categories.
+2022-01-09 23:13:44.911 | DEBUG    | my_html_work:get_html:15 - Sleep in 6
+2022-01-09 23:13:51.277 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/udilishcha/c166335/ page of flagman.kiev.ua was received. 
+2022-01-09 23:14:44.108 | DEBUG    | flagman:get_sub_categories:56 - Фидерные удилища - https://www.flagman.kiev.ua/fiderniye-udilischa/c201225/
+2022-01-09 23:15:14.822 | DEBUG    | flagman:get_sub_categories:56 - Пикерные удилища - https://www.flagman.kiev.ua/pikernie-udilischa/c201227/
+2022-01-09 23:15:17.763 | DEBUG    | flagman:get_sub_categories:56 - Спиннинговые удилища - https://www.flagman.kiev.ua/spinningovie-udilischa/c201224/
+2022-01-09 23:15:40.635 | DEBUG    | flagman:get_sub_categories:56 - Карповые удилища - https://www.flagman.kiev.ua/karpovie-udilischa/c201226/
+2022-01-09 23:15:40.636 | DEBUG    | flagman:get_sub_categories:56 - Маховые удилища - https://www.flagman.kiev.ua/mahovie-udilischa/c201228/
+2022-01-09 23:15:40.637 | DEBUG    | flagman:get_sub_categories:56 - Болонские удилища - https://www.flagman.kiev.ua/bolonskie-udilischa/c201230/
+2022-01-09 23:15:40.638 | DEBUG    | flagman:get_sub_categories:56 - Матчевые удилища - https://www.flagman.kiev.ua/matchevie-udilischa/c201229/
+2022-01-09 23:15:40.639 | DEBUG    | flagman:get_sub_categories:56 - Штекерные удилища - https://www.flagman.kiev.ua/shtekernie-udilischa/c201231/
+2022-01-09 23:15:40.639 | DEBUG    | flagman:get_sub_categories:56 - Зимние удилища - https://www.flagman.kiev.ua/zymnie-udischa/c201625/
+2022-01-09 23:15:40.640 | DEBUG    | flagman:get_sub_categories:56 - Морские удилища - https://www.flagman.kiev.ua/morskie-udilischa/c204445/
+2022-01-09 23:15:40.642 | DEBUG    | my_html_work:get_html:15 - Sleep in 0
+2022-01-09 23:15:40.765 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/katushki/c166336/ page of flagman.kiev.ua was received. 
+2022-01-09 23:15:41.331 | DEBUG    | flagman:get_sub_categories:56 - Спиннинговые катушки - https://www.flagman.kiev.ua/spinningovie-katushki/c201234/
+2022-01-09 23:15:41.332 | DEBUG    | flagman:get_sub_categories:56 - Фидерные катушки - https://www.flagman.kiev.ua/fidernie-katushki/c201236/
+2022-01-09 23:15:41.332 | DEBUG    | flagman:get_sub_categories:56 - Карповые катушки - https://www.flagman.kiev.ua/karpovie-katushki/c201235/
+2022-01-09 23:15:41.333 | DEBUG    | flagman:get_sub_categories:56 - Болонские катушки - https://www.flagman.kiev.ua/bolonskie-katushki/c202018/
+2022-01-09 23:15:41.333 | DEBUG    | flagman:get_sub_categories:56 - Матчевые катушки - https://www.flagman.kiev.ua/matchevie-katushki/c201237/
+2022-01-09 23:15:41.334 | DEBUG    | flagman:get_sub_categories:56 - Мультипликаторные катушки - https://www.flagman.kiev.ua/multiplikatornie-katushki/c201238/
+2022-01-09 23:15:41.334 | DEBUG    | flagman:get_sub_categories:56 - Зимние катушки - https://www.flagman.kiev.ua/zimnie-katushki/c202081/
+2022-01-09 23:15:41.335 | DEBUG    | flagman:get_sub_categories:56 - Морские катушки - https://www.flagman.kiev.ua/morskie-katushki/c202082/
+2022-01-09 23:15:41.335 | DEBUG    | my_html_work:get_html:15 - Sleep in 2
+2022-01-09 23:15:43.458 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/leska/c167615/ page of flagman.kiev.ua was received. 
+2022-01-09 23:15:44.278 | DEBUG    | flagman:get_sub_categories:50 - Леска - https://www.flagman.kiev.ua/leska/c167615/ hasn't got subcategories.
+2022-01-09 23:19:47.917 | INFO     | __main__:main:14 - The script started.
+2022-01-09 23:19:53.958 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua page of flagman.kiev.ua was received. 
+2022-01-09 23:19:54.387 | DEBUG    | flagman:get_catalog:38 - It was received 35 categories.
+2022-01-09 23:19:57.525 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/udilishcha/c166335/ page of flagman.kiev.ua was received. 
+2022-01-09 23:19:58.146 | DEBUG    | flagman:get_sub_categories:56 - Фидерные удилища - https://www.flagman.kiev.ua/fiderniye-udilischa/c201225/
+2022-01-09 23:19:58.147 | DEBUG    | flagman:get_sub_categories:56 - Пикерные удилища - https://www.flagman.kiev.ua/pikernie-udilischa/c201227/
+2022-01-09 23:19:58.148 | DEBUG    | flagman:get_sub_categories:56 - Спиннинговые удилища - https://www.flagman.kiev.ua/spinningovie-udilischa/c201224/
+2022-01-09 23:19:58.148 | DEBUG    | flagman:get_sub_categories:56 - Карповые удилища - https://www.flagman.kiev.ua/karpovie-udilischa/c201226/
+2022-01-09 23:19:58.149 | DEBUG    | flagman:get_sub_categories:56 - Маховые удилища - https://www.flagman.kiev.ua/mahovie-udilischa/c201228/
+2022-01-09 23:19:58.149 | DEBUG    | flagman:get_sub_categories:56 - Болонские удилища - https://www.flagman.kiev.ua/bolonskie-udilischa/c201230/
+2022-01-09 23:19:58.150 | DEBUG    | flagman:get_sub_categories:56 - Матчевые удилища - https://www.flagman.kiev.ua/matchevie-udilischa/c201229/
+2022-01-09 23:19:58.150 | DEBUG    | flagman:get_sub_categories:56 - Штекерные удилища - https://www.flagman.kiev.ua/shtekernie-udilischa/c201231/
+2022-01-09 23:19:58.151 | DEBUG    | flagman:get_sub_categories:56 - Зимние удилища - https://www.flagman.kiev.ua/zymnie-udischa/c201625/
+2022-01-09 23:19:58.151 | DEBUG    | flagman:get_sub_categories:56 - Морские удилища - https://www.flagman.kiev.ua/morskie-udilischa/c204445/
+2022-01-09 23:21:04.135 | INFO     | __main__:main:14 - The script started.
+2022-01-09 23:21:04.262 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua page of flagman.kiev.ua was received. 
+2022-01-09 23:21:04.683 | DEBUG    | flagman:get_catalog:38 - It was received 35 categories.
+2022-01-09 23:21:04.788 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/udilishcha/c166335/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:05.379 | DEBUG    | flagman:get_sub_categories:56 - Фидерные удилища - https://www.flagman.kiev.ua/fiderniye-udilischa/c201225/
+2022-01-09 23:21:05.380 | DEBUG    | flagman:get_sub_categories:56 - Пикерные удилища - https://www.flagman.kiev.ua/pikernie-udilischa/c201227/
+2022-01-09 23:21:05.380 | DEBUG    | flagman:get_sub_categories:56 - Спиннинговые удилища - https://www.flagman.kiev.ua/spinningovie-udilischa/c201224/
+2022-01-09 23:21:05.381 | DEBUG    | flagman:get_sub_categories:56 - Карповые удилища - https://www.flagman.kiev.ua/karpovie-udilischa/c201226/
+2022-01-09 23:21:05.381 | DEBUG    | flagman:get_sub_categories:56 - Маховые удилища - https://www.flagman.kiev.ua/mahovie-udilischa/c201228/
+2022-01-09 23:21:05.382 | DEBUG    | flagman:get_sub_categories:56 - Болонские удилища - https://www.flagman.kiev.ua/bolonskie-udilischa/c201230/
+2022-01-09 23:21:05.383 | DEBUG    | flagman:get_sub_categories:56 - Матчевые удилища - https://www.flagman.kiev.ua/matchevie-udilischa/c201229/
+2022-01-09 23:21:05.383 | DEBUG    | flagman:get_sub_categories:56 - Штекерные удилища - https://www.flagman.kiev.ua/shtekernie-udilischa/c201231/
+2022-01-09 23:21:05.384 | DEBUG    | flagman:get_sub_categories:56 - Зимние удилища - https://www.flagman.kiev.ua/zymnie-udischa/c201625/
+2022-01-09 23:21:05.384 | DEBUG    | flagman:get_sub_categories:56 - Морские удилища - https://www.flagman.kiev.ua/morskie-udilischa/c204445/
+2022-01-09 23:21:05.490 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/katushki/c166336/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:06.004 | DEBUG    | flagman:get_sub_categories:56 - Спиннинговые катушки - https://www.flagman.kiev.ua/spinningovie-katushki/c201234/
+2022-01-09 23:21:06.005 | DEBUG    | flagman:get_sub_categories:56 - Фидерные катушки - https://www.flagman.kiev.ua/fidernie-katushki/c201236/
+2022-01-09 23:21:06.006 | DEBUG    | flagman:get_sub_categories:56 - Карповые катушки - https://www.flagman.kiev.ua/karpovie-katushki/c201235/
+2022-01-09 23:21:06.006 | DEBUG    | flagman:get_sub_categories:56 - Болонские катушки - https://www.flagman.kiev.ua/bolonskie-katushki/c202018/
+2022-01-09 23:21:06.007 | DEBUG    | flagman:get_sub_categories:56 - Матчевые катушки - https://www.flagman.kiev.ua/matchevie-katushki/c201237/
+2022-01-09 23:21:06.007 | DEBUG    | flagman:get_sub_categories:56 - Мультипликаторные катушки - https://www.flagman.kiev.ua/multiplikatornie-katushki/c201238/
+2022-01-09 23:21:06.008 | DEBUG    | flagman:get_sub_categories:56 - Зимние катушки - https://www.flagman.kiev.ua/zimnie-katushki/c202081/
+2022-01-09 23:21:06.008 | DEBUG    | flagman:get_sub_categories:56 - Морские катушки - https://www.flagman.kiev.ua/morskie-katushki/c202082/
+2022-01-09 23:21:06.138 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/leska/c167615/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:06.949 | DEBUG    | flagman:get_sub_categories:50 - Леска - https://www.flagman.kiev.ua/leska/c167615/ hasn't got subcategories.
+2022-01-09 23:21:07.358 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/ribolovnii-shnury/c168497/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:08.042 | DEBUG    | flagman:get_sub_categories:50 - Шнуры - https://www.flagman.kiev.ua/ribolovnii-shnury/c168497/ hasn't got subcategories.
+2022-01-09 23:21:08.174 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/rybalovnii-gotovie-osnastki/c168777/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:08.908 | DEBUG    | flagman:get_sub_categories:50 - Готовые оснастки - https://www.flagman.kiev.ua/rybalovnii-gotovie-osnastki/c168777/ hasn't got subcategories.
+2022-01-09 23:21:09.209 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/poplavki-markernie-poplavki/c168778/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:09.935 | DEBUG    | flagman:get_sub_categories:50 - Поплавки и Маркеры - https://www.flagman.kiev.ua/poplavki-markernie-poplavki/c168778/ hasn't got subcategories.
+2022-01-09 23:21:10.094 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/vse-dlya-montaga/c168779/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:10.664 | DEBUG    | flagman:get_sub_categories:56 - Грузила - https://www.flagman.kiev.ua/gruzila/c168780/
+2022-01-09 23:21:10.664 | DEBUG    | flagman:get_sub_categories:56 - Джиг-головки - https://www.flagman.kiev.ua/jig-golovki/c168781/
+2022-01-09 23:21:10.665 | DEBUG    | flagman:get_sub_categories:56 - Застежки - https://www.flagman.kiev.ua/zastegki/c168782/
+2022-01-09 23:21:10.665 | DEBUG    | flagman:get_sub_categories:56 - Кольца - https://www.flagman.kiev.ua/kolca/c168783/
+2022-01-09 23:21:10.666 | DEBUG    | flagman:get_sub_categories:56 - Вертлюги - https://www.flagman.kiev.ua/vertlugi/c168784/
+2022-01-09 23:21:10.666 | DEBUG    | flagman:get_sub_categories:56 - Кормушки - https://www.flagman.kiev.ua/kormushki/c168785/
+2022-01-09 23:21:10.667 | DEBUG    | flagman:get_sub_categories:56 - Амортизаторы - https://www.flagman.kiev.ua/amortizatori/c168786/
+2022-01-09 23:21:10.667 | DEBUG    | flagman:get_sub_categories:56 - Ледкоры - https://www.flagman.kiev.ua/ledkori/c168787/
+2022-01-09 23:21:10.668 | DEBUG    | flagman:get_sub_categories:56 - Поводковый материал - https://www.flagman.kiev.ua/povodkoviy-material/c168788/
+2022-01-09 23:21:10.669 | DEBUG    | flagman:get_sub_categories:56 - ПВА материалы - https://www.flagman.kiev.ua/pva-materiali/c168789/
+2022-01-09 23:21:10.669 | DEBUG    | flagman:get_sub_categories:56 - Шок лидеры - https://www.flagman.kiev.ua/shok-lidery/c169094/
+2022-01-09 23:21:10.670 | DEBUG    | flagman:get_sub_categories:56 - Стопоры - https://www.flagman.kiev.ua/stopory/c207628/
+2022-01-09 23:21:10.670 | DEBUG    | flagman:get_sub_categories:56 - Пресс-формы для форелевой пасты - https://www.flagman.kiev.ua/presc-formu-dlya-forelevoy-pasti/c209922/
+2022-01-09 23:21:10.671 | DEBUG    | flagman:get_sub_categories:56 - Бусины - https://www.flagman.kiev.ua/businy/c211207/
+2022-01-09 23:21:10.671 | DEBUG    | flagman:get_sub_categories:56 - Держатели для амортизаторов - https://www.flagman.kiev.ua/derzhateli-dlya-aromatizatorov/c211302/
+2022-01-09 23:21:10.672 | DEBUG    | flagman:get_sub_categories:56 - Другие аксессуары для монтажа - https://www.flagman.kiev.ua/drugiye-aksessuary-dlya-montazha/c211329/
+2022-01-09 23:21:10.672 | DEBUG    | flagman:get_sub_categories:56 - Инструменты для монтажа - https://www.flagman.kiev.ua/instrumenty-dlya-montazha/c211211/
+2022-01-09 23:21:10.673 | DEBUG    | flagman:get_sub_categories:56 - Клипсы - https://www.flagman.kiev.ua/klipsy/c211204/
+2022-01-09 23:21:10.673 | DEBUG    | flagman:get_sub_categories:56 - Коннекторы для монтажа - https://www.flagman.kiev.ua/konnecoty-dlya-udilischa/c211200/
+2022-01-09 23:21:10.674 | DEBUG    | flagman:get_sub_categories:56 - Конусы - https://www.flagman.kiev.ua/konusy/c211208/
+2022-01-09 23:21:10.674 | DEBUG    | flagman:get_sub_categories:56 - Лентяйки - https://www.flagman.kiev.ua/lentyayki/c211328/
+2022-01-09 23:21:10.675 | DEBUG    | flagman:get_sub_categories:56 - Маркеры - https://www.flagman.kiev.ua/markery/c211311/
+2022-01-09 23:21:10.675 | DEBUG    | flagman:get_sub_categories:56 - Наборы для оснастки и монтажа - https://www.flagman.kiev.ua/nabory-dlya-osnastki-i-montazha/c211209/
+2022-01-09 23:21:10.676 | DEBUG    | flagman:get_sub_categories:56 - Трубки - https://www.flagman.kiev.ua/trubki/c211203/
+2022-01-09 23:21:10.797 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/instrumenty-dlya-boilov-i-pelletsa/c202268/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:11.099 | DEBUG    | flagman:get_sub_categories:56 - Иглы для бойлов - https://www.flagman.kiev.ua/igli-dlya-boylov/c168791/
+2022-01-09 23:21:11.100 | DEBUG    | flagman:get_sub_categories:56 - Сверла для бойлов - https://www.flagman.kiev.ua/sverla-dlya-boylov/c168790/
+2022-01-09 23:21:11.101 | DEBUG    | flagman:get_sub_categories:56 - Доски для катания бойлов - https://www.flagman.kiev.ua/made-boils/c200847/
+2022-01-09 23:21:11.101 | DEBUG    | flagman:get_sub_categories:56 - Шаролепки - https://www.flagman.kiev.ua/sharolepki/c202270/
+2022-01-09 23:21:11.102 | DEBUG    | flagman:get_sub_categories:56 - Измельчители бойлов - https://www.flagman.kiev.ua/izmelchiteli-boylov/c202272/
+2022-01-09 23:21:11.102 | DEBUG    | flagman:get_sub_categories:56 - Инструменты для пеллетса - https://www.flagman.kiev.ua/instrumenty-dlya-pelpetsa/c212832/
+2022-01-09 23:21:11.434 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/kruchki/c168792/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:12.282 | DEBUG    | flagman:get_sub_categories:50 - Крючки - https://www.flagman.kiev.ua/kruchki/c168792/ hasn't got subcategories.
+2022-01-09 23:21:15.475 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/primanky/c168793/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:16.001 | DEBUG    | flagman:get_sub_categories:56 - Воблеры - https://www.flagman.kiev.ua/vobleri/c168794/
+2022-01-09 23:21:16.002 | DEBUG    | flagman:get_sub_categories:56 - Блесны - https://www.flagman.kiev.ua/blesny/c168795/
+2022-01-09 23:21:16.002 | DEBUG    | flagman:get_sub_categories:56 - Силиконовые приманки - https://www.flagman.kiev.ua/soft-lures/c168796/
+2022-01-09 23:21:16.003 | DEBUG    | flagman:get_sub_categories:56 - Насадки - https://www.flagman.kiev.ua/nasadki/c168797/
+2022-01-09 23:21:16.004 | DEBUG    | flagman:get_sub_categories:56 - Спиннербейты - https://www.flagman.kiev.ua/spinnerbeyti/c168798/
+2022-01-09 23:21:16.004 | DEBUG    | flagman:get_sub_categories:56 - Пилькеры - https://www.flagman.kiev.ua/pilkery/c168799/
+2022-01-09 23:21:16.005 | DEBUG    | flagman:get_sub_categories:56 - Балансиры - https://www.flagman.kiev.ua/balansyri/c168800/
+2022-01-09 23:21:16.005 | DEBUG    | flagman:get_sub_categories:56 - Бокоплавы - https://www.flagman.kiev.ua/bokoplavy/c204999/
+2022-01-09 23:21:16.006 | DEBUG    | flagman:get_sub_categories:56 - Мормышки - https://www.flagman.kiev.ua/mormishki/c168801/
+2022-01-09 23:21:16.006 | DEBUG    | flagman:get_sub_categories:56 - Форелевая паста - https://www.flagman.kiev.ua/pasta-forelevaya/c209890/
+2022-01-09 23:21:16.156 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/pricormki/c168802/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:16.551 | DEBUG    | flagman:get_sub_categories:56 - Прикормка - https://www.flagman.kiev.ua/rybolovnaya-prikormka/c168803/
+2022-01-09 23:21:16.552 | DEBUG    | flagman:get_sub_categories:56 - Спод миксы - https://www.flagman.kiev.ua/spod-mixy/c176947/
+2022-01-09 23:21:16.553 | DEBUG    | flagman:get_sub_categories:56 - Добавки - https://www.flagman.kiev.ua/dobavki/c168804/
+2022-01-09 23:21:16.553 | DEBUG    | flagman:get_sub_categories:56 - Бойлы - https://www.flagman.kiev.ua/boyli/c168805/
+2022-01-09 23:21:16.554 | DEBUG    | flagman:get_sub_categories:56 - Пеллетс - https://www.flagman.kiev.ua/pellets/c168806/
+2022-01-09 23:21:16.554 | DEBUG    | flagman:get_sub_categories:56 - Дипы - https://www.flagman.kiev.ua/dypi/c168807/
+2022-01-09 23:21:16.555 | DEBUG    | flagman:get_sub_categories:56 - Технопланктон - https://www.flagman.kiev.ua/tehnoplankton/c204843/
+2022-01-09 23:21:16.555 | DEBUG    | flagman:get_sub_categories:56 - Макуха - https://www.flagman.kiev.ua/makuha/c178756/
+2022-01-09 23:21:16.556 | DEBUG    | flagman:get_sub_categories:56 - Ликвиды - https://www.flagman.kiev.ua/likvidy/c174079/
+2022-01-09 23:21:16.556 | DEBUG    | flagman:get_sub_categories:56 - Спрей - https://www.flagman.kiev.ua/sprey/c183046/
+2022-01-09 23:21:16.557 | DEBUG    | flagman:get_sub_categories:56 - Аттрактанты - https://www.flagman.kiev.ua/usilitely-vkusa/c168808/
+2022-01-09 23:21:16.657 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/Prikarmlivanie/c168825/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:16.995 | DEBUG    | flagman:get_sub_categories:56 - Рогатки - https://www.flagman.kiev.ua/rogatki/c168826/
+2022-01-09 23:21:16.996 | DEBUG    | flagman:get_sub_categories:56 - Кобры - https://www.flagman.kiev.ua/cobry/c168827/
+2022-01-09 23:21:16.996 | DEBUG    | flagman:get_sub_categories:56 - Ракеты - https://www.flagman.kiev.ua/rakety/c168828/
+2022-01-09 23:21:16.997 | DEBUG    | flagman:get_sub_categories:56 - Кораблики - https://www.flagman.kiev.ua/korabliky/c168830/
+2022-01-09 23:21:16.997 | DEBUG    | flagman:get_sub_categories:56 - Чашки - https://www.flagman.kiev.ua/chashki/c176067/
+2022-01-09 23:21:16.998 | DEBUG    | flagman:get_sub_categories:56 - Колышки для измерения дистанции - https://www.flagman.kiev.ua/colishki-dlya-izmereniya-distancii/c202633/
+2022-01-09 23:21:16.998 | DEBUG    | flagman:get_sub_categories:56 - Ложки для прикормки - https://www.flagman.kiev.ua/lozhki-dlja-prikormki/c205239/
+2022-01-09 23:21:16.999 | DEBUG    | flagman:get_sub_categories:56 - Пресcы для прикормки - https://www.flagman.kiev.ua/press-dlya-prikormki/c207779/
+2022-01-09 23:21:17.178 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/vedra/c168831/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:17.753 | DEBUG    | flagman:get_sub_categories:50 - Ведра - https://www.flagman.kiev.ua/vedra/c168831/ hasn't got subcategories.
+2022-01-09 23:21:28.636 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/sita/c168832/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:29.193 | DEBUG    | flagman:get_sub_categories:50 - Сита - https://www.flagman.kiev.ua/sita/c168832/ hasn't got subcategories.
+2022-01-09 23:21:29.328 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/podstavki-derzhateli/c168809/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:29.687 | DEBUG    | flagman:get_sub_categories:56 - Род-поды - https://www.flagman.kiev.ua/rod-pody/c168810/
+2022-01-09 23:21:29.688 | DEBUG    | flagman:get_sub_categories:56 - Подставки - https://www.flagman.kiev.ua/podstavki/c168811/
+2022-01-09 23:21:29.688 | DEBUG    | flagman:get_sub_categories:56 - Треноги - https://www.flagman.kiev.ua/trenogy/c168812/
+2022-01-09 23:21:29.689 | DEBUG    | flagman:get_sub_categories:56 - Держатели - https://www.flagman.kiev.ua/dergatel/c168813/
+2022-01-09 23:21:29.689 | DEBUG    | flagman:get_sub_categories:56 - Бузбары - https://www.flagman.kiev.ua/buzbary/c168815/
+2022-01-09 23:21:29.690 | DEBUG    | flagman:get_sub_categories:56 - Аксессуары для подставок и держателей - https://www.flagman.kiev.ua/acsessuary-dlya-podstavok-i-derzhateley/c169458/
+2022-01-09 23:21:29.871 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/electronii-signalizatory/c168819/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:30.426 | DEBUG    | flagman:get_sub_categories:50 - Электронные сигнализаторы - https://www.flagman.kiev.ua/electronii-signalizatory/c168819/ hasn't got subcategories.
+2022-01-09 23:21:30.572 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/mehanicheskie-signalizatory/c168820/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:31.159 | DEBUG    | flagman:get_sub_categories:50 - Механические сигнализаторы - https://www.flagman.kiev.ua/mehanicheskie-signalizatory/c168820/ hasn't got subcategories.
+2022-01-09 23:21:31.284 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/podsaki-i-bagry/c168837/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:31.658 | DEBUG    | flagman:get_sub_categories:56 - Подсаки - https://www.flagman.kiev.ua/podsaki/c168838/
+2022-01-09 23:21:31.659 | DEBUG    | flagman:get_sub_categories:56 - Головы подсак - https://www.flagman.kiev.ua/golovy-podsak/c168839/
+2022-01-09 23:21:31.660 | DEBUG    | flagman:get_sub_categories:56 - Ручки подсаков - https://www.flagman.kiev.ua/ruchki-podsak/c168840/
+2022-01-09 23:21:31.660 | DEBUG    | flagman:get_sub_categories:56 - Багры - https://www.flagman.kiev.ua/bagry/c168841/
+2022-01-09 23:21:31.661 | DEBUG    | flagman:get_sub_categories:56 - Магниты для крепления подсак - https://www.flagman.kiev.ua/205632/c205632/
+2022-01-09 23:21:31.661 | DEBUG    | flagman:get_sub_categories:56 - Поплавки для подсак - https://www.flagman.kiev.ua/poplavki-dlya-podsak/c204906/
+2022-01-09 23:21:31.771 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/sadki-i-kukany/c168834/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:32.076 | DEBUG    | flagman:get_sub_categories:56 - Садки - https://www.flagman.kiev.ua/sadky/c168835/
+2022-01-09 23:21:32.077 | DEBUG    | flagman:get_sub_categories:56 - Куканы - https://www.flagman.kiev.ua/kukany/c168836/
+2022-01-09 23:21:32.077 | DEBUG    | flagman:get_sub_categories:56 - Каны - https://www.flagman.kiev.ua/kany/c173841/
+2022-01-09 23:21:32.283 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/uhod-za-carpom/c168842/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:32.601 | DEBUG    | flagman:get_sub_categories:56 - Маты - https://www.flagman.kiev.ua/carpovie-maty/c168843/
+2022-01-09 23:21:32.602 | DEBUG    | flagman:get_sub_categories:56 - Аксессуары - https://www.flagman.kiev.ua/186384/c186384/
+2022-01-09 23:21:32.807 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/transportirovka-i-hranenie/c168846/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:33.420 | DEBUG    | flagman:get_sub_categories:56 - Сумки - https://www.flagman.kiev.ua/sumki/c168847/
+2022-01-09 23:21:33.421 | DEBUG    | flagman:get_sub_categories:56 - Рюкзаки - https://www.flagman.kiev.ua/rukzaki/c168868/
+2022-01-09 23:21:33.421 | DEBUG    | flagman:get_sub_categories:56 - Чехлы - https://www.flagman.kiev.ua/chehly/c168848/
+2022-01-09 23:21:33.422 | DEBUG    | flagman:get_sub_categories:56 - Тубусы - https://www.flagman.kiev.ua/tubusy/c168849/
+2022-01-09 23:21:33.422 | DEBUG    | flagman:get_sub_categories:56 - Транспортировочные тележки - https://www.flagman.kiev.ua/transportirovochnie-telezhki/c168850/
+2022-01-09 23:21:33.423 | DEBUG    | flagman:get_sub_categories:56 - Ящики - https://www.flagman.kiev.ua/yaschiki/c168851/
+2022-01-09 23:21:33.424 | DEBUG    | flagman:get_sub_categories:56 - Коробки - https://www.flagman.kiev.ua/korobki/c168852/
+2022-01-09 23:21:33.424 | DEBUG    | flagman:get_sub_categories:56 - Мотовила - https://www.flagman.kiev.ua/motovila/c168853/
+2022-01-09 23:21:33.425 | DEBUG    | flagman:get_sub_categories:56 - Поводочницы - https://www.flagman.kiev.ua/povodochnicy/c168854/
+2022-01-09 23:21:33.425 | DEBUG    | flagman:get_sub_categories:56 - Санки зимние - https://www.flagman.kiev.ua/sanki-zimnie/c190238/
+2022-01-09 23:21:33.426 | DEBUG    | flagman:get_sub_categories:56 - Фиксаторы - https://www.flagman.kiev.ua/fiksatory/c183373/
+2022-01-09 23:21:33.426 | DEBUG    | flagman:get_sub_categories:56 - Аксессуары для ящиков - https://www.flagman.kiev.ua/209536/c209536/
+2022-01-09 23:21:42.825 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/zonty/c168875/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:43.305 | DEBUG    | flagman:get_sub_categories:50 - Зонты - https://www.flagman.kiev.ua/zonty/c168875/ hasn't got subcategories.
+2022-01-09 23:21:44.688 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/platformi-kresla-obves/c168816/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:44.988 | DEBUG    | flagman:get_sub_categories:56 - Платформы - https://www.flagman.kiev.ua/platformy/c172947/
+2022-01-09 23:21:44.989 | DEBUG    | flagman:get_sub_categories:56 - Фидерные кресла - https://www.flagman.kiev.ua/fidernie-kresla/c201780/
+2022-01-09 23:21:44.989 | DEBUG    | flagman:get_sub_categories:56 - Обвес - https://www.flagman.kiev.ua/obves/c172948/
+2022-01-09 23:21:45.226 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/odezhda/c168902/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:45.928 | DEBUG    | flagman:get_sub_categories:56 - Футболки - https://www.flagman.kiev.ua/futbolki/c168906/
+2022-01-09 23:21:45.929 | DEBUG    | flagman:get_sub_categories:56 - Шорты - https://www.flagman.kiev.ua/shorty/c210091/
+2022-01-09 23:21:45.930 | DEBUG    | flagman:get_sub_categories:56 - Рубашки - https://www.flagman.kiev.ua/rubashki/c181023/
+2022-01-09 23:21:45.931 | DEBUG    | flagman:get_sub_categories:56 - Термобелье - https://www.flagman.kiev.ua/termobelyo/c168911/
+2022-01-09 23:21:45.932 | DEBUG    | flagman:get_sub_categories:56 - Головные уборы - https://www.flagman.kiev.ua/holovnie-ubory/c168904/
+2022-01-09 23:21:45.932 | DEBUG    | flagman:get_sub_categories:56 - Поляризационные очки - https://www.flagman.kiev.ua/polyarizacionnie-ochki/c168903/
+2022-01-09 23:21:45.933 | DEBUG    | flagman:get_sub_categories:56 - Регланы - https://www.flagman.kiev.ua/reglany/c168905/
+2022-01-09 23:21:45.934 | DEBUG    | flagman:get_sub_categories:56 - Костюмы - https://www.flagman.kiev.ua/kostumy/c168910/
+2022-01-09 23:21:45.935 | DEBUG    | flagman:get_sub_categories:56 - Куртки - https://www.flagman.kiev.ua/kurtki/c168907/
+2022-01-09 23:21:45.935 | DEBUG    | flagman:get_sub_categories:56 - Носки - https://www.flagman.kiev.ua/noski/c176068/
+2022-01-09 23:21:45.936 | DEBUG    | flagman:get_sub_categories:56 - Штаны - https://www.flagman.kiev.ua/shtany/c168909/
+2022-01-09 23:21:45.937 | DEBUG    | flagman:get_sub_categories:56 - Обувь - https://www.flagman.kiev.ua/obuv/c168914/
+2022-01-09 23:21:45.937 | DEBUG    | flagman:get_sub_categories:56 - Перчатки - https://www.flagman.kiev.ua/perchatki/c168913/
+2022-01-09 23:21:45.938 | DEBUG    | flagman:get_sub_categories:56 - Забродные костюмы - https://www.flagman.kiev.ua/zabrodnie-kostumy/c210065/
+2022-01-09 23:21:45.939 | DEBUG    | flagman:get_sub_categories:56 - Жилеты - https://www.flagman.kiev.ua/zhilety/c168908/
+2022-01-09 23:21:45.939 | DEBUG    | flagman:get_sub_categories:56 - Фартук - https://www.flagman.kiev.ua/fartuk/c206332/
+2022-01-09 23:21:45.940 | DEBUG    | flagman:get_sub_categories:56 - Аксессуары - https://www.flagman.kiev.ua/183049/c183049/
+2022-01-09 23:21:45.940 | DEBUG    | flagman:get_sub_categories:56 - Средства по уходу за одеждой - https://www.flagman.kiev.ua/sredstva-po-ukhodu-za-odezhdoy/c245605/
+2022-01-09 23:21:46.189 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/polotenca/c168833/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:46.643 | DEBUG    | flagman:get_sub_categories:50 - Полотенца - https://www.flagman.kiev.ua/polotenca/c168833/ hasn't got subcategories.
+2022-01-09 23:21:46.750 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/rybolovniy-instrument/c168855/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:47.079 | DEBUG    | flagman:get_sub_categories:56 - Экстракторы - https://www.flagman.kiev.ua/extractory/c168856/
+2022-01-09 23:21:47.079 | DEBUG    | flagman:get_sub_categories:56 - Зевники - https://www.flagman.kiev.ua/zevniky/c207096/
+2022-01-09 23:21:47.080 | DEBUG    | flagman:get_sub_categories:56 - Отцепы для воблеров и блесен - https://www.flagman.kiev.ua/otcepy-dlja-voblerov/c206056/
+2022-01-09 23:21:47.081 | DEBUG    | flagman:get_sub_categories:56 - Плоскогубцы, щипцы, кусачки - https://www.flagman.kiev.ua/ploskohubcy-schipcy-kusachki/c168857/
+2022-01-09 23:21:47.081 | DEBUG    | flagman:get_sub_categories:56 - Мультитулы - https://www.flagman.kiev.ua/multituly/c168860/
+2022-01-09 23:21:47.082 | DEBUG    | flagman:get_sub_categories:56 - Наборы инструментов - https://www.flagman.kiev.ua/nabory-instrumentov/c168858/
+2022-01-09 23:21:47.082 | DEBUG    | flagman:get_sub_categories:56 - Ножницы - https://www.flagman.kiev.ua/nozhnicy/c168859/
+2022-01-09 23:21:47.083 | DEBUG    | flagman:get_sub_categories:56 - Весы - https://www.flagman.kiev.ua/vesy/c168844/
+2022-01-09 23:21:47.083 | DEBUG    | flagman:get_sub_categories:56 - Счетчик рыбы - https://www.flagman.kiev.ua/schetchik-ryby/c168845/
+2022-01-09 23:21:47.084 | DEBUG    | flagman:get_sub_categories:56 - Точило - https://www.flagman.kiev.ua/tochilki-lkya-kryuchkov/c204066/
+2022-01-09 23:21:47.250 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/Cyberfishing/c216371/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:47.638 | DEBUG    | flagman:get_sub_categories:50 - Cyberfishing - https://www.flagman.kiev.ua/Cyberfishing/c216371/ hasn't got subcategories.
+2022-01-09 23:21:47.758 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/turism/c168867/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:48.197 | DEBUG    | flagman:get_sub_categories:56 - Мебель - https://www.flagman.kiev.ua/mebel/c168869/
+2022-01-09 23:21:48.198 | DEBUG    | flagman:get_sub_categories:56 - Палатки - https://www.flagman.kiev.ua/palatki/c168874/
+2022-01-09 23:21:48.199 | DEBUG    | flagman:get_sub_categories:56 - Спальные мешки - https://www.flagman.kiev.ua/spalnie-meshki/c168876/
+2022-01-09 23:21:48.199 | DEBUG    | flagman:get_sub_categories:56 - Матрацы - https://www.flagman.kiev.ua/matraci/c168877/
+2022-01-09 23:21:48.200 | DEBUG    | flagman:get_sub_categories:56 - Газовое оборудование - https://www.flagman.kiev.ua/gazovoe-oborudovanie/c168878/
+2022-01-09 23:21:48.200 | DEBUG    | flagman:get_sub_categories:56 - Фонари и лампы - https://www.flagman.kiev.ua/fonari-i-lampy/c168883/
+2022-01-09 23:21:48.201 | DEBUG    | flagman:get_sub_categories:56 - Компасы - https://www.flagman.kiev.ua/compassy/c168884/
+2022-01-09 23:21:48.201 | DEBUG    | flagman:get_sub_categories:56 - Все для пикника - https://www.flagman.kiev.ua/vse-dlyz-picnica/c168885/
+2022-01-09 23:21:48.202 | DEBUG    | flagman:get_sub_categories:56 - Защита от насекомых - https://www.flagman.kiev.ua/zaschita-ot-nasekomih/c168901/
+2022-01-09 23:21:48.202 | DEBUG    | flagman:get_sub_categories:56 - Термосумки - https://www.flagman.kiev.ua/termosumki/c174652/
+2022-01-09 23:21:48.203 | DEBUG    | flagman:get_sub_categories:56 - Гамаки - https://www.flagman.kiev.ua/gamaki/c246406/
+2022-01-09 23:21:48.203 | DEBUG    | flagman:get_sub_categories:56 - Подушки надувные - https://www.flagman.kiev.ua/naduvniye-podushki/c186386/
+2022-01-09 23:21:48.204 | DEBUG    | flagman:get_sub_categories:56 - Самонадувающиеся коврики - https://www.flagman.kiev.ua/samonaduvayuschiesya-kovriki/c184147/
+2022-01-09 23:21:48.204 | DEBUG    | flagman:get_sub_categories:56 - Сопутствующие товары - https://www.flagman.kiev.ua/suputstvuyuschie-tovary/c194533/
+2022-01-09 23:21:48.205 | DEBUG    | flagman:get_sub_categories:56 - Сушилки для рыбы - https://www.flagman.kiev.ua/sushilki-dlya-ryby/c188862/
+2022-01-09 23:21:48.206 | DEBUG    | flagman:get_sub_categories:56 - Туристические коврики - https://www.flagman.kiev.ua/turisticheskie-kovriki/c191178/
+2022-01-09 23:21:48.426 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/lodki/c183134/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:48.735 | DEBUG    | flagman:get_sub_categories:56 - Надувные лодки - https://www.flagman.kiev.ua/naduvnie-lodki/c200095/
+2022-01-09 23:21:48.736 | DEBUG    | flagman:get_sub_categories:56 - Аксессуары к лодкам и моторам - https://www.flagman.kiev.ua/acsessuary-k-lodkam/c200096/
+2022-01-09 23:21:48.736 | DEBUG    | flagman:get_sub_categories:56 - Лодочные моторы - https://www.flagman.kiev.ua/lodochnyye-motory/c242695/
+2022-01-09 23:21:48.737 | DEBUG    | flagman:get_sub_categories:56 - Моторные алюминиевые лодки, катера - https://www.flagman.kiev.ua/Motornyye-alyuminiyevyye-lodki/c255766/
+2022-01-09 23:21:48.932 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/eholoty-navigatory/c168821/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:49.236 | DEBUG    | flagman:get_sub_categories:56 - Эхолоты - https://www.flagman.kiev.ua/eholoty/c168822/
+2022-01-09 23:21:49.236 | DEBUG    | flagman:get_sub_categories:56 - Аксессуары - https://www.flagman.kiev.ua/aksessuary-dlya-eholotov/c168824/
+2022-01-09 23:21:49.435 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/zimnyaya-lovlya/c168817/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:49.756 | DEBUG    | flagman:get_sub_categories:56 - Кивки - https://www.flagman.kiev.ua/kivki/c168818/
+2022-01-09 23:21:49.757 | DEBUG    | flagman:get_sub_categories:56 - Жерлицы - https://www.flagman.kiev.ua/zherlizy/c202318/
+2022-01-09 23:21:49.757 | DEBUG    | flagman:get_sub_categories:56 - Ледобуры - https://www.flagman.kiev.ua/ledobury/c190456/
+2022-01-09 23:21:49.758 | DEBUG    | flagman:get_sub_categories:56 - Пешни - https://www.flagman.kiev.ua/peshnya/c202317/
+2022-01-09 23:21:49.758 | DEBUG    | flagman:get_sub_categories:56 - Мотыльницы - https://www.flagman.kiev.ua/motilnici/c190463/
+2022-01-09 23:21:49.759 | DEBUG    | flagman:get_sub_categories:56 - Шумовки - https://www.flagman.kiev.ua/shumovki/c202315/
+2022-01-09 23:21:49.759 | DEBUG    | flagman:get_sub_categories:56 - Наколенники - https://www.flagman.kiev.ua/nakolleniky/c205238/
+2022-01-09 23:21:49.760 | DEBUG    | flagman:get_sub_categories:56 - Спасалки - https://www.flagman.kiev.ua/spasalky-dlya-zimney-lovli/c206741/
+2022-01-09 23:21:50.146 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/akcionnie-nabory/c176070/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:50.667 | DEBUG    | flagman:get_sub_categories:50 - Акционные наборы - https://www.flagman.kiev.ua/akcionnie-nabory/c176070/ hasn't got subcategories.
+2022-01-09 23:21:50.787 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/podarochnie-sertifikaty/c199751/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:51.131 | DEBUG    | flagman:get_sub_categories:50 - Подарочные сертификаты Flagman - https://www.flagman.kiev.ua/podarochnie-sertifikaty/c199751/ hasn't got subcategories.
+2022-01-09 23:21:51.641 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/zapchasti-i-uhod/c168861/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:51.986 | DEBUG    | flagman:get_sub_categories:56 - Запчасти для удилищ - https://www.flagman.kiev.ua/zapchasti-dlya-udilisch/c168862/
+2022-01-09 23:21:51.986 | DEBUG    | flagman:get_sub_categories:56 - Запчасти для катушек - https://www.flagman.kiev.ua/zapchasti-dlya-katushek/c168863/
+2022-01-09 23:21:51.987 | DEBUG    | flagman:get_sub_categories:56 - Смазки для шнуров и лесок - https://www.flagman.kiev.ua/smazki-dlya-shnurov-i-lesok/c201205/
+2022-01-09 23:21:52.119 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/suvenirnaya-produczia/c169928/ page of flagman.kiev.ua was received. 
+2022-01-09 23:21:52.615 | DEBUG    | flagman:get_sub_categories:50 - Сувенирная продукция - https://www.flagman.kiev.ua/suvenirnaya-produczia/c169928/ hasn't got subcategories.
+2022-01-09 23:21:52.616 | INFO     | __main__:main:26 - Script stop
+2022-01-09 23:22:23.229 | INFO     | __main__:main:14 - The script started.
+2022-01-09 23:22:23.376 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua page of flagman.kiev.ua was received. 
+2022-01-09 23:22:23.786 | DEBUG    | flagman:get_catalog:38 - It was received 35 categories.
+2022-01-09 23:22:23.898 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/udilishcha/c166335/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:24.509 | DEBUG    | flagman:get_sub_categories:56 - Фидерные удилища - https://www.flagman.kiev.ua/fiderniye-udilischa/c201225/
+2022-01-09 23:22:24.510 | DEBUG    | flagman:get_sub_categories:56 - Пикерные удилища - https://www.flagman.kiev.ua/pikernie-udilischa/c201227/
+2022-01-09 23:22:24.510 | DEBUG    | flagman:get_sub_categories:56 - Спиннинговые удилища - https://www.flagman.kiev.ua/spinningovie-udilischa/c201224/
+2022-01-09 23:22:24.511 | DEBUG    | flagman:get_sub_categories:56 - Карповые удилища - https://www.flagman.kiev.ua/karpovie-udilischa/c201226/
+2022-01-09 23:22:24.511 | DEBUG    | flagman:get_sub_categories:56 - Маховые удилища - https://www.flagman.kiev.ua/mahovie-udilischa/c201228/
+2022-01-09 23:22:24.512 | DEBUG    | flagman:get_sub_categories:56 - Болонские удилища - https://www.flagman.kiev.ua/bolonskie-udilischa/c201230/
+2022-01-09 23:22:24.512 | DEBUG    | flagman:get_sub_categories:56 - Матчевые удилища - https://www.flagman.kiev.ua/matchevie-udilischa/c201229/
+2022-01-09 23:22:24.513 | DEBUG    | flagman:get_sub_categories:56 - Штекерные удилища - https://www.flagman.kiev.ua/shtekernie-udilischa/c201231/
+2022-01-09 23:22:24.514 | DEBUG    | flagman:get_sub_categories:56 - Зимние удилища - https://www.flagman.kiev.ua/zymnie-udischa/c201625/
+2022-01-09 23:22:24.514 | DEBUG    | flagman:get_sub_categories:56 - Морские удилища - https://www.flagman.kiev.ua/morskie-udilischa/c204445/
+2022-01-09 23:22:24.636 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/katushki/c166336/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:25.152 | DEBUG    | flagman:get_sub_categories:56 - Спиннинговые катушки - https://www.flagman.kiev.ua/spinningovie-katushki/c201234/
+2022-01-09 23:22:25.153 | DEBUG    | flagman:get_sub_categories:56 - Фидерные катушки - https://www.flagman.kiev.ua/fidernie-katushki/c201236/
+2022-01-09 23:22:25.153 | DEBUG    | flagman:get_sub_categories:56 - Карповые катушки - https://www.flagman.kiev.ua/karpovie-katushki/c201235/
+2022-01-09 23:22:25.154 | DEBUG    | flagman:get_sub_categories:56 - Болонские катушки - https://www.flagman.kiev.ua/bolonskie-katushki/c202018/
+2022-01-09 23:22:25.155 | DEBUG    | flagman:get_sub_categories:56 - Матчевые катушки - https://www.flagman.kiev.ua/matchevie-katushki/c201237/
+2022-01-09 23:22:25.155 | DEBUG    | flagman:get_sub_categories:56 - Мультипликаторные катушки - https://www.flagman.kiev.ua/multiplikatornie-katushki/c201238/
+2022-01-09 23:22:25.156 | DEBUG    | flagman:get_sub_categories:56 - Зимние катушки - https://www.flagman.kiev.ua/zimnie-katushki/c202081/
+2022-01-09 23:22:25.156 | DEBUG    | flagman:get_sub_categories:56 - Морские катушки - https://www.flagman.kiev.ua/morskie-katushki/c202082/
+2022-01-09 23:22:25.276 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/leska/c167615/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:26.116 | DEBUG    | flagman:get_sub_categories:50 - Леска - https://www.flagman.kiev.ua/leska/c167615/ hasn't got subcategories.
+2022-01-09 23:22:26.234 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/ribolovnii-shnury/c168497/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:26.926 | DEBUG    | flagman:get_sub_categories:50 - Шнуры - https://www.flagman.kiev.ua/ribolovnii-shnury/c168497/ hasn't got subcategories.
+2022-01-09 23:22:27.047 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/rybalovnii-gotovie-osnastki/c168777/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:27.774 | DEBUG    | flagman:get_sub_categories:50 - Готовые оснастки - https://www.flagman.kiev.ua/rybalovnii-gotovie-osnastki/c168777/ hasn't got subcategories.
+2022-01-09 23:22:27.897 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/poplavki-markernie-poplavki/c168778/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:28.609 | DEBUG    | flagman:get_sub_categories:50 - Поплавки и Маркеры - https://www.flagman.kiev.ua/poplavki-markernie-poplavki/c168778/ hasn't got subcategories.
+2022-01-09 23:22:28.751 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/vse-dlya-montaga/c168779/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:29.332 | DEBUG    | flagman:get_sub_categories:56 - Грузила - https://www.flagman.kiev.ua/gruzila/c168780/
+2022-01-09 23:22:29.333 | DEBUG    | flagman:get_sub_categories:56 - Джиг-головки - https://www.flagman.kiev.ua/jig-golovki/c168781/
+2022-01-09 23:22:29.333 | DEBUG    | flagman:get_sub_categories:56 - Застежки - https://www.flagman.kiev.ua/zastegki/c168782/
+2022-01-09 23:22:29.334 | DEBUG    | flagman:get_sub_categories:56 - Кольца - https://www.flagman.kiev.ua/kolca/c168783/
+2022-01-09 23:22:29.334 | DEBUG    | flagman:get_sub_categories:56 - Вертлюги - https://www.flagman.kiev.ua/vertlugi/c168784/
+2022-01-09 23:22:29.335 | DEBUG    | flagman:get_sub_categories:56 - Кормушки - https://www.flagman.kiev.ua/kormushki/c168785/
+2022-01-09 23:22:29.335 | DEBUG    | flagman:get_sub_categories:56 - Амортизаторы - https://www.flagman.kiev.ua/amortizatori/c168786/
+2022-01-09 23:22:29.336 | DEBUG    | flagman:get_sub_categories:56 - Ледкоры - https://www.flagman.kiev.ua/ledkori/c168787/
+2022-01-09 23:22:29.336 | DEBUG    | flagman:get_sub_categories:56 - Поводковый материал - https://www.flagman.kiev.ua/povodkoviy-material/c168788/
+2022-01-09 23:22:29.337 | DEBUG    | flagman:get_sub_categories:56 - ПВА материалы - https://www.flagman.kiev.ua/pva-materiali/c168789/
+2022-01-09 23:22:29.337 | DEBUG    | flagman:get_sub_categories:56 - Шок лидеры - https://www.flagman.kiev.ua/shok-lidery/c169094/
+2022-01-09 23:22:29.338 | DEBUG    | flagman:get_sub_categories:56 - Стопоры - https://www.flagman.kiev.ua/stopory/c207628/
+2022-01-09 23:22:29.339 | DEBUG    | flagman:get_sub_categories:56 - Пресс-формы для форелевой пасты - https://www.flagman.kiev.ua/presc-formu-dlya-forelevoy-pasti/c209922/
+2022-01-09 23:22:29.339 | DEBUG    | flagman:get_sub_categories:56 - Бусины - https://www.flagman.kiev.ua/businy/c211207/
+2022-01-09 23:22:29.340 | DEBUG    | flagman:get_sub_categories:56 - Держатели для амортизаторов - https://www.flagman.kiev.ua/derzhateli-dlya-aromatizatorov/c211302/
+2022-01-09 23:22:29.340 | DEBUG    | flagman:get_sub_categories:56 - Другие аксессуары для монтажа - https://www.flagman.kiev.ua/drugiye-aksessuary-dlya-montazha/c211329/
+2022-01-09 23:22:29.341 | DEBUG    | flagman:get_sub_categories:56 - Инструменты для монтажа - https://www.flagman.kiev.ua/instrumenty-dlya-montazha/c211211/
+2022-01-09 23:22:29.341 | DEBUG    | flagman:get_sub_categories:56 - Клипсы - https://www.flagman.kiev.ua/klipsy/c211204/
+2022-01-09 23:22:29.342 | DEBUG    | flagman:get_sub_categories:56 - Коннекторы для монтажа - https://www.flagman.kiev.ua/konnecoty-dlya-udilischa/c211200/
+2022-01-09 23:22:29.342 | DEBUG    | flagman:get_sub_categories:56 - Конусы - https://www.flagman.kiev.ua/konusy/c211208/
+2022-01-09 23:22:29.343 | DEBUG    | flagman:get_sub_categories:56 - Лентяйки - https://www.flagman.kiev.ua/lentyayki/c211328/
+2022-01-09 23:22:29.343 | DEBUG    | flagman:get_sub_categories:56 - Маркеры - https://www.flagman.kiev.ua/markery/c211311/
+2022-01-09 23:22:29.344 | DEBUG    | flagman:get_sub_categories:56 - Наборы для оснастки и монтажа - https://www.flagman.kiev.ua/nabory-dlya-osnastki-i-montazha/c211209/
+2022-01-09 23:22:29.344 | DEBUG    | flagman:get_sub_categories:56 - Трубки - https://www.flagman.kiev.ua/trubki/c211203/
+2022-01-09 23:22:29.553 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/instrumenty-dlya-boilov-i-pelletsa/c202268/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:29.888 | DEBUG    | flagman:get_sub_categories:56 - Иглы для бойлов - https://www.flagman.kiev.ua/igli-dlya-boylov/c168791/
+2022-01-09 23:22:29.889 | DEBUG    | flagman:get_sub_categories:56 - Сверла для бойлов - https://www.flagman.kiev.ua/sverla-dlya-boylov/c168790/
+2022-01-09 23:22:29.890 | DEBUG    | flagman:get_sub_categories:56 - Доски для катания бойлов - https://www.flagman.kiev.ua/made-boils/c200847/
+2022-01-09 23:22:29.891 | DEBUG    | flagman:get_sub_categories:56 - Шаролепки - https://www.flagman.kiev.ua/sharolepki/c202270/
+2022-01-09 23:22:29.892 | DEBUG    | flagman:get_sub_categories:56 - Измельчители бойлов - https://www.flagman.kiev.ua/izmelchiteli-boylov/c202272/
+2022-01-09 23:22:29.892 | DEBUG    | flagman:get_sub_categories:56 - Инструменты для пеллетса - https://www.flagman.kiev.ua/instrumenty-dlya-pelpetsa/c212832/
+2022-01-09 23:22:30.064 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/kruchki/c168792/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:30.919 | DEBUG    | flagman:get_sub_categories:50 - Крючки - https://www.flagman.kiev.ua/kruchki/c168792/ hasn't got subcategories.
+2022-01-09 23:22:31.037 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/primanky/c168793/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:31.549 | DEBUG    | flagman:get_sub_categories:56 - Воблеры - https://www.flagman.kiev.ua/vobleri/c168794/
+2022-01-09 23:22:31.549 | DEBUG    | flagman:get_sub_categories:56 - Блесны - https://www.flagman.kiev.ua/blesny/c168795/
+2022-01-09 23:22:31.550 | DEBUG    | flagman:get_sub_categories:56 - Силиконовые приманки - https://www.flagman.kiev.ua/soft-lures/c168796/
+2022-01-09 23:22:31.551 | DEBUG    | flagman:get_sub_categories:56 - Насадки - https://www.flagman.kiev.ua/nasadki/c168797/
+2022-01-09 23:22:31.551 | DEBUG    | flagman:get_sub_categories:56 - Спиннербейты - https://www.flagman.kiev.ua/spinnerbeyti/c168798/
+2022-01-09 23:22:31.552 | DEBUG    | flagman:get_sub_categories:56 - Пилькеры - https://www.flagman.kiev.ua/pilkery/c168799/
+2022-01-09 23:22:31.552 | DEBUG    | flagman:get_sub_categories:56 - Балансиры - https://www.flagman.kiev.ua/balansyri/c168800/
+2022-01-09 23:22:31.553 | DEBUG    | flagman:get_sub_categories:56 - Бокоплавы - https://www.flagman.kiev.ua/bokoplavy/c204999/
+2022-01-09 23:22:31.553 | DEBUG    | flagman:get_sub_categories:56 - Мормышки - https://www.flagman.kiev.ua/mormishki/c168801/
+2022-01-09 23:22:31.554 | DEBUG    | flagman:get_sub_categories:56 - Форелевая паста - https://www.flagman.kiev.ua/pasta-forelevaya/c209890/
+2022-01-09 23:22:31.679 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/pricormki/c168802/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:32.069 | DEBUG    | flagman:get_sub_categories:56 - Прикормка - https://www.flagman.kiev.ua/rybolovnaya-prikormka/c168803/
+2022-01-09 23:22:32.070 | DEBUG    | flagman:get_sub_categories:56 - Спод миксы - https://www.flagman.kiev.ua/spod-mixy/c176947/
+2022-01-09 23:22:32.071 | DEBUG    | flagman:get_sub_categories:56 - Добавки - https://www.flagman.kiev.ua/dobavki/c168804/
+2022-01-09 23:22:32.071 | DEBUG    | flagman:get_sub_categories:56 - Бойлы - https://www.flagman.kiev.ua/boyli/c168805/
+2022-01-09 23:22:32.072 | DEBUG    | flagman:get_sub_categories:56 - Пеллетс - https://www.flagman.kiev.ua/pellets/c168806/
+2022-01-09 23:22:32.072 | DEBUG    | flagman:get_sub_categories:56 - Дипы - https://www.flagman.kiev.ua/dypi/c168807/
+2022-01-09 23:22:32.073 | DEBUG    | flagman:get_sub_categories:56 - Технопланктон - https://www.flagman.kiev.ua/tehnoplankton/c204843/
+2022-01-09 23:22:32.074 | DEBUG    | flagman:get_sub_categories:56 - Макуха - https://www.flagman.kiev.ua/makuha/c178756/
+2022-01-09 23:22:32.074 | DEBUG    | flagman:get_sub_categories:56 - Ликвиды - https://www.flagman.kiev.ua/likvidy/c174079/
+2022-01-09 23:22:32.075 | DEBUG    | flagman:get_sub_categories:56 - Спрей - https://www.flagman.kiev.ua/sprey/c183046/
+2022-01-09 23:22:32.075 | DEBUG    | flagman:get_sub_categories:56 - Аттрактанты - https://www.flagman.kiev.ua/usilitely-vkusa/c168808/
+2022-01-09 23:22:32.196 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/Prikarmlivanie/c168825/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:32.530 | DEBUG    | flagman:get_sub_categories:56 - Рогатки - https://www.flagman.kiev.ua/rogatki/c168826/
+2022-01-09 23:22:32.531 | DEBUG    | flagman:get_sub_categories:56 - Кобры - https://www.flagman.kiev.ua/cobry/c168827/
+2022-01-09 23:22:32.532 | DEBUG    | flagman:get_sub_categories:56 - Ракеты - https://www.flagman.kiev.ua/rakety/c168828/
+2022-01-09 23:22:32.532 | DEBUG    | flagman:get_sub_categories:56 - Кораблики - https://www.flagman.kiev.ua/korabliky/c168830/
+2022-01-09 23:22:32.533 | DEBUG    | flagman:get_sub_categories:56 - Чашки - https://www.flagman.kiev.ua/chashki/c176067/
+2022-01-09 23:22:32.534 | DEBUG    | flagman:get_sub_categories:56 - Колышки для измерения дистанции - https://www.flagman.kiev.ua/colishki-dlya-izmereniya-distancii/c202633/
+2022-01-09 23:22:32.534 | DEBUG    | flagman:get_sub_categories:56 - Ложки для прикормки - https://www.flagman.kiev.ua/lozhki-dlja-prikormki/c205239/
+2022-01-09 23:22:32.535 | DEBUG    | flagman:get_sub_categories:56 - Пресcы для прикормки - https://www.flagman.kiev.ua/press-dlya-prikormki/c207779/
+2022-01-09 23:22:32.704 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/vedra/c168831/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:33.293 | DEBUG    | flagman:get_sub_categories:50 - Ведра - https://www.flagman.kiev.ua/vedra/c168831/ hasn't got subcategories.
+2022-01-09 23:22:33.415 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/sita/c168832/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:33.967 | DEBUG    | flagman:get_sub_categories:50 - Сита - https://www.flagman.kiev.ua/sita/c168832/ hasn't got subcategories.
+2022-01-09 23:22:34.087 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/podstavki-derzhateli/c168809/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:34.436 | DEBUG    | flagman:get_sub_categories:56 - Род-поды - https://www.flagman.kiev.ua/rod-pody/c168810/
+2022-01-09 23:22:34.437 | DEBUG    | flagman:get_sub_categories:56 - Подставки - https://www.flagman.kiev.ua/podstavki/c168811/
+2022-01-09 23:22:34.437 | DEBUG    | flagman:get_sub_categories:56 - Треноги - https://www.flagman.kiev.ua/trenogy/c168812/
+2022-01-09 23:22:34.438 | DEBUG    | flagman:get_sub_categories:56 - Держатели - https://www.flagman.kiev.ua/dergatel/c168813/
+2022-01-09 23:22:34.439 | DEBUG    | flagman:get_sub_categories:56 - Бузбары - https://www.flagman.kiev.ua/buzbary/c168815/
+2022-01-09 23:22:34.439 | DEBUG    | flagman:get_sub_categories:56 - Аксессуары для подставок и держателей - https://www.flagman.kiev.ua/acsessuary-dlya-podstavok-i-derzhateley/c169458/
+2022-01-09 23:22:34.594 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/electronii-signalizatory/c168819/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:35.165 | DEBUG    | flagman:get_sub_categories:50 - Электронные сигнализаторы - https://www.flagman.kiev.ua/electronii-signalizatory/c168819/ hasn't got subcategories.
+2022-01-09 23:22:35.443 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/mehanicheskie-signalizatory/c168820/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:36.028 | DEBUG    | flagman:get_sub_categories:50 - Механические сигнализаторы - https://www.flagman.kiev.ua/mehanicheskie-signalizatory/c168820/ hasn't got subcategories.
+2022-01-09 23:22:36.266 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/podsaki-i-bagry/c168837/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:36.629 | DEBUG    | flagman:get_sub_categories:56 - Подсаки - https://www.flagman.kiev.ua/podsaki/c168838/
+2022-01-09 23:22:36.630 | DEBUG    | flagman:get_sub_categories:56 - Головы подсак - https://www.flagman.kiev.ua/golovy-podsak/c168839/
+2022-01-09 23:22:36.630 | DEBUG    | flagman:get_sub_categories:56 - Ручки подсаков - https://www.flagman.kiev.ua/ruchki-podsak/c168840/
+2022-01-09 23:22:36.631 | DEBUG    | flagman:get_sub_categories:56 - Багры - https://www.flagman.kiev.ua/bagry/c168841/
+2022-01-09 23:22:36.631 | DEBUG    | flagman:get_sub_categories:56 - Магниты для крепления подсак - https://www.flagman.kiev.ua/205632/c205632/
+2022-01-09 23:22:36.632 | DEBUG    | flagman:get_sub_categories:56 - Поплавки для подсак - https://www.flagman.kiev.ua/poplavki-dlya-podsak/c204906/
+2022-01-09 23:22:36.737 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/sadki-i-kukany/c168834/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:37.056 | DEBUG    | flagman:get_sub_categories:56 - Садки - https://www.flagman.kiev.ua/sadky/c168835/
+2022-01-09 23:22:37.057 | DEBUG    | flagman:get_sub_categories:56 - Куканы - https://www.flagman.kiev.ua/kukany/c168836/
+2022-01-09 23:22:37.058 | DEBUG    | flagman:get_sub_categories:56 - Каны - https://www.flagman.kiev.ua/kany/c173841/
+2022-01-09 23:22:37.238 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/uhod-za-carpom/c168842/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:37.546 | DEBUG    | flagman:get_sub_categories:56 - Маты - https://www.flagman.kiev.ua/carpovie-maty/c168843/
+2022-01-09 23:22:37.547 | DEBUG    | flagman:get_sub_categories:56 - Аксессуары - https://www.flagman.kiev.ua/186384/c186384/
+2022-01-09 23:22:37.750 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/transportirovka-i-hranenie/c168846/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:38.357 | DEBUG    | flagman:get_sub_categories:56 - Сумки - https://www.flagman.kiev.ua/sumki/c168847/
+2022-01-09 23:22:38.358 | DEBUG    | flagman:get_sub_categories:56 - Рюкзаки - https://www.flagman.kiev.ua/rukzaki/c168868/
+2022-01-09 23:22:38.358 | DEBUG    | flagman:get_sub_categories:56 - Чехлы - https://www.flagman.kiev.ua/chehly/c168848/
+2022-01-09 23:22:38.359 | DEBUG    | flagman:get_sub_categories:56 - Тубусы - https://www.flagman.kiev.ua/tubusy/c168849/
+2022-01-09 23:22:38.359 | DEBUG    | flagman:get_sub_categories:56 - Транспортировочные тележки - https://www.flagman.kiev.ua/transportirovochnie-telezhki/c168850/
+2022-01-09 23:22:38.360 | DEBUG    | flagman:get_sub_categories:56 - Ящики - https://www.flagman.kiev.ua/yaschiki/c168851/
+2022-01-09 23:22:38.361 | DEBUG    | flagman:get_sub_categories:56 - Коробки - https://www.flagman.kiev.ua/korobki/c168852/
+2022-01-09 23:22:38.361 | DEBUG    | flagman:get_sub_categories:56 - Мотовила - https://www.flagman.kiev.ua/motovila/c168853/
+2022-01-09 23:22:38.362 | DEBUG    | flagman:get_sub_categories:56 - Поводочницы - https://www.flagman.kiev.ua/povodochnicy/c168854/
+2022-01-09 23:22:38.362 | DEBUG    | flagman:get_sub_categories:56 - Санки зимние - https://www.flagman.kiev.ua/sanki-zimnie/c190238/
+2022-01-09 23:22:38.363 | DEBUG    | flagman:get_sub_categories:56 - Фиксаторы - https://www.flagman.kiev.ua/fiksatory/c183373/
+2022-01-09 23:22:38.363 | DEBUG    | flagman:get_sub_categories:56 - Аксессуары для ящиков - https://www.flagman.kiev.ua/209536/c209536/
+2022-01-09 23:22:38.490 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/zonty/c168875/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:38.987 | DEBUG    | flagman:get_sub_categories:50 - Зонты - https://www.flagman.kiev.ua/zonty/c168875/ hasn't got subcategories.
+2022-01-09 23:22:39.117 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/platformi-kresla-obves/c168816/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:39.423 | DEBUG    | flagman:get_sub_categories:56 - Платформы - https://www.flagman.kiev.ua/platformy/c172947/
+2022-01-09 23:22:39.425 | DEBUG    | flagman:get_sub_categories:56 - Фидерные кресла - https://www.flagman.kiev.ua/fidernie-kresla/c201780/
+2022-01-09 23:22:39.425 | DEBUG    | flagman:get_sub_categories:56 - Обвес - https://www.flagman.kiev.ua/obves/c172948/
+2022-01-09 23:22:39.629 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/odezhda/c168902/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:40.358 | DEBUG    | flagman:get_sub_categories:56 - Футболки - https://www.flagman.kiev.ua/futbolki/c168906/
+2022-01-09 23:22:40.358 | DEBUG    | flagman:get_sub_categories:56 - Шорты - https://www.flagman.kiev.ua/shorty/c210091/
+2022-01-09 23:22:40.359 | DEBUG    | flagman:get_sub_categories:56 - Рубашки - https://www.flagman.kiev.ua/rubashki/c181023/
+2022-01-09 23:22:40.360 | DEBUG    | flagman:get_sub_categories:56 - Термобелье - https://www.flagman.kiev.ua/termobelyo/c168911/
+2022-01-09 23:22:40.360 | DEBUG    | flagman:get_sub_categories:56 - Головные уборы - https://www.flagman.kiev.ua/holovnie-ubory/c168904/
+2022-01-09 23:22:40.361 | DEBUG    | flagman:get_sub_categories:56 - Поляризационные очки - https://www.flagman.kiev.ua/polyarizacionnie-ochki/c168903/
+2022-01-09 23:22:40.361 | DEBUG    | flagman:get_sub_categories:56 - Регланы - https://www.flagman.kiev.ua/reglany/c168905/
+2022-01-09 23:22:40.362 | DEBUG    | flagman:get_sub_categories:56 - Костюмы - https://www.flagman.kiev.ua/kostumy/c168910/
+2022-01-09 23:22:40.362 | DEBUG    | flagman:get_sub_categories:56 - Куртки - https://www.flagman.kiev.ua/kurtki/c168907/
+2022-01-09 23:22:40.363 | DEBUG    | flagman:get_sub_categories:56 - Носки - https://www.flagman.kiev.ua/noski/c176068/
+2022-01-09 23:22:40.364 | DEBUG    | flagman:get_sub_categories:56 - Штаны - https://www.flagman.kiev.ua/shtany/c168909/
+2022-01-09 23:22:40.364 | DEBUG    | flagman:get_sub_categories:56 - Обувь - https://www.flagman.kiev.ua/obuv/c168914/
+2022-01-09 23:22:40.365 | DEBUG    | flagman:get_sub_categories:56 - Перчатки - https://www.flagman.kiev.ua/perchatki/c168913/
+2022-01-09 23:22:40.365 | DEBUG    | flagman:get_sub_categories:56 - Забродные костюмы - https://www.flagman.kiev.ua/zabrodnie-kostumy/c210065/
+2022-01-09 23:22:40.366 | DEBUG    | flagman:get_sub_categories:56 - Жилеты - https://www.flagman.kiev.ua/zhilety/c168908/
+2022-01-09 23:22:40.366 | DEBUG    | flagman:get_sub_categories:56 - Фартук - https://www.flagman.kiev.ua/fartuk/c206332/
+2022-01-09 23:22:40.367 | DEBUG    | flagman:get_sub_categories:56 - Аксессуары - https://www.flagman.kiev.ua/183049/c183049/
+2022-01-09 23:22:40.367 | DEBUG    | flagman:get_sub_categories:56 - Средства по уходу за одеждой - https://www.flagman.kiev.ua/sredstva-po-ukhodu-za-odezhdoy/c245605/
+2022-01-09 23:22:40.488 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/polotenca/c168833/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:40.940 | DEBUG    | flagman:get_sub_categories:50 - Полотенца - https://www.flagman.kiev.ua/polotenca/c168833/ hasn't got subcategories.
+2022-01-09 23:22:41.046 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/rybolovniy-instrument/c168855/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:41.401 | DEBUG    | flagman:get_sub_categories:56 - Экстракторы - https://www.flagman.kiev.ua/extractory/c168856/
+2022-01-09 23:22:41.401 | DEBUG    | flagman:get_sub_categories:56 - Зевники - https://www.flagman.kiev.ua/zevniky/c207096/
+2022-01-09 23:22:41.402 | DEBUG    | flagman:get_sub_categories:56 - Отцепы для воблеров и блесен - https://www.flagman.kiev.ua/otcepy-dlja-voblerov/c206056/
+2022-01-09 23:22:41.403 | DEBUG    | flagman:get_sub_categories:56 - Плоскогубцы, щипцы, кусачки - https://www.flagman.kiev.ua/ploskohubcy-schipcy-kusachki/c168857/
+2022-01-09 23:22:41.403 | DEBUG    | flagman:get_sub_categories:56 - Мультитулы - https://www.flagman.kiev.ua/multituly/c168860/
+2022-01-09 23:22:41.404 | DEBUG    | flagman:get_sub_categories:56 - Наборы инструментов - https://www.flagman.kiev.ua/nabory-instrumentov/c168858/
+2022-01-09 23:22:41.404 | DEBUG    | flagman:get_sub_categories:56 - Ножницы - https://www.flagman.kiev.ua/nozhnicy/c168859/
+2022-01-09 23:22:41.405 | DEBUG    | flagman:get_sub_categories:56 - Весы - https://www.flagman.kiev.ua/vesy/c168844/
+2022-01-09 23:22:41.405 | DEBUG    | flagman:get_sub_categories:56 - Счетчик рыбы - https://www.flagman.kiev.ua/schetchik-ryby/c168845/
+2022-01-09 23:22:41.406 | DEBUG    | flagman:get_sub_categories:56 - Точило - https://www.flagman.kiev.ua/tochilki-lkya-kryuchkov/c204066/
+2022-01-09 23:22:41.562 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/Cyberfishing/c216371/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:41.966 | DEBUG    | flagman:get_sub_categories:50 - Cyberfishing - https://www.flagman.kiev.ua/Cyberfishing/c216371/ hasn't got subcategories.
+2022-01-09 23:22:42.088 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/turism/c168867/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:42.557 | DEBUG    | flagman:get_sub_categories:56 - Мебель - https://www.flagman.kiev.ua/mebel/c168869/
+2022-01-09 23:22:42.558 | DEBUG    | flagman:get_sub_categories:56 - Палатки - https://www.flagman.kiev.ua/palatki/c168874/
+2022-01-09 23:22:42.559 | DEBUG    | flagman:get_sub_categories:56 - Спальные мешки - https://www.flagman.kiev.ua/spalnie-meshki/c168876/
+2022-01-09 23:22:42.559 | DEBUG    | flagman:get_sub_categories:56 - Матрацы - https://www.flagman.kiev.ua/matraci/c168877/
+2022-01-09 23:22:42.560 | DEBUG    | flagman:get_sub_categories:56 - Газовое оборудование - https://www.flagman.kiev.ua/gazovoe-oborudovanie/c168878/
+2022-01-09 23:22:42.560 | DEBUG    | flagman:get_sub_categories:56 - Фонари и лампы - https://www.flagman.kiev.ua/fonari-i-lampy/c168883/
+2022-01-09 23:22:42.561 | DEBUG    | flagman:get_sub_categories:56 - Компасы - https://www.flagman.kiev.ua/compassy/c168884/
+2022-01-09 23:22:42.561 | DEBUG    | flagman:get_sub_categories:56 - Все для пикника - https://www.flagman.kiev.ua/vse-dlyz-picnica/c168885/
+2022-01-09 23:22:42.562 | DEBUG    | flagman:get_sub_categories:56 - Защита от насекомых - https://www.flagman.kiev.ua/zaschita-ot-nasekomih/c168901/
+2022-01-09 23:22:42.562 | DEBUG    | flagman:get_sub_categories:56 - Термосумки - https://www.flagman.kiev.ua/termosumki/c174652/
+2022-01-09 23:22:42.563 | DEBUG    | flagman:get_sub_categories:56 - Гамаки - https://www.flagman.kiev.ua/gamaki/c246406/
+2022-01-09 23:22:42.563 | DEBUG    | flagman:get_sub_categories:56 - Подушки надувные - https://www.flagman.kiev.ua/naduvniye-podushki/c186386/
+2022-01-09 23:22:42.564 | DEBUG    | flagman:get_sub_categories:56 - Самонадувающиеся коврики - https://www.flagman.kiev.ua/samonaduvayuschiesya-kovriki/c184147/
+2022-01-09 23:22:42.564 | DEBUG    | flagman:get_sub_categories:56 - Сопутствующие товары - https://www.flagman.kiev.ua/suputstvuyuschie-tovary/c194533/
+2022-01-09 23:22:42.565 | DEBUG    | flagman:get_sub_categories:56 - Сушилки для рыбы - https://www.flagman.kiev.ua/sushilki-dlya-ryby/c188862/
+2022-01-09 23:22:42.565 | DEBUG    | flagman:get_sub_categories:56 - Туристические коврики - https://www.flagman.kiev.ua/turisticheskie-kovriki/c191178/
+2022-01-09 23:22:42.701 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/lodki/c183134/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:43.022 | DEBUG    | flagman:get_sub_categories:56 - Надувные лодки - https://www.flagman.kiev.ua/naduvnie-lodki/c200095/
+2022-01-09 23:22:43.023 | DEBUG    | flagman:get_sub_categories:56 - Аксессуары к лодкам и моторам - https://www.flagman.kiev.ua/acsessuary-k-lodkam/c200096/
+2022-01-09 23:22:43.023 | DEBUG    | flagman:get_sub_categories:56 - Лодочные моторы - https://www.flagman.kiev.ua/lodochnyye-motory/c242695/
+2022-01-09 23:22:43.024 | DEBUG    | flagman:get_sub_categories:56 - Моторные алюминиевые лодки, катера - https://www.flagman.kiev.ua/Motornyye-alyuminiyevyye-lodki/c255766/
+2022-01-09 23:22:43.184 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/eholoty-navigatory/c168821/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:43.490 | DEBUG    | flagman:get_sub_categories:56 - Эхолоты - https://www.flagman.kiev.ua/eholoty/c168822/
+2022-01-09 23:22:43.490 | DEBUG    | flagman:get_sub_categories:56 - Аксессуары - https://www.flagman.kiev.ua/aksessuary-dlya-eholotov/c168824/
+2022-01-09 23:22:43.681 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/zimnyaya-lovlya/c168817/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:43.998 | DEBUG    | flagman:get_sub_categories:56 - Кивки - https://www.flagman.kiev.ua/kivki/c168818/
+2022-01-09 23:22:43.999 | DEBUG    | flagman:get_sub_categories:56 - Жерлицы - https://www.flagman.kiev.ua/zherlizy/c202318/
+2022-01-09 23:22:44.000 | DEBUG    | flagman:get_sub_categories:56 - Ледобуры - https://www.flagman.kiev.ua/ledobury/c190456/
+2022-01-09 23:22:44.000 | DEBUG    | flagman:get_sub_categories:56 - Пешни - https://www.flagman.kiev.ua/peshnya/c202317/
+2022-01-09 23:22:44.001 | DEBUG    | flagman:get_sub_categories:56 - Мотыльницы - https://www.flagman.kiev.ua/motilnici/c190463/
+2022-01-09 23:22:44.001 | DEBUG    | flagman:get_sub_categories:56 - Шумовки - https://www.flagman.kiev.ua/shumovki/c202315/
+2022-01-09 23:22:44.002 | DEBUG    | flagman:get_sub_categories:56 - Наколенники - https://www.flagman.kiev.ua/nakolleniky/c205238/
+2022-01-09 23:22:44.002 | DEBUG    | flagman:get_sub_categories:56 - Спасалки - https://www.flagman.kiev.ua/spasalky-dlya-zimney-lovli/c206741/
+2022-01-09 23:22:44.195 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/akcionnie-nabory/c176070/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:44.750 | DEBUG    | flagman:get_sub_categories:50 - Акционные наборы - https://www.flagman.kiev.ua/akcionnie-nabory/c176070/ hasn't got subcategories.
+2022-01-09 23:22:44.868 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/podarochnie-sertifikaty/c199751/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:45.216 | DEBUG    | flagman:get_sub_categories:50 - Подарочные сертификаты Flagman - https://www.flagman.kiev.ua/podarochnie-sertifikaty/c199751/ hasn't got subcategories.
+2022-01-09 23:22:45.366 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/zapchasti-i-uhod/c168861/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:45.713 | DEBUG    | flagman:get_sub_categories:56 - Запчасти для удилищ - https://www.flagman.kiev.ua/zapchasti-dlya-udilisch/c168862/
+2022-01-09 23:22:45.714 | DEBUG    | flagman:get_sub_categories:56 - Запчасти для катушек - https://www.flagman.kiev.ua/zapchasti-dlya-katushek/c168863/
+2022-01-09 23:22:45.715 | DEBUG    | flagman:get_sub_categories:56 - Смазки для шнуров и лесок - https://www.flagman.kiev.ua/smazki-dlya-shnurov-i-lesok/c201205/
+2022-01-09 23:22:45.936 | DEBUG    | my_html_work:get_html:20 - The https://www.flagman.kiev.ua/suvenirnaya-produczia/c169928/ page of flagman.kiev.ua was received. 
+2022-01-09 23:22:46.453 | DEBUG    | flagman:get_sub_categories:50 - Сувенирная продукция - https://www.flagman.kiev.ua/suvenirnaya-produczia/c169928/ hasn't got subcategories.
